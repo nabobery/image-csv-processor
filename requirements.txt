@@ -1,0 +1,9 @@
+aiohttp==3.11.12
+fastapi==0.115.8
+motor==3.7.0
+pillow==11.1.0
+pip==24.0
+pydantic-settings==2.8.0
+python-multipart==0.0.20
+requests==2.32.3
+uvicorn==0.34.0
